@@ -1,0 +1,387 @@
+pybullet build time: Mar 19 2026 14:38:08
+
+=====================================================================
+Pretraining on task ratio [100, 0] begins.
+Pretraining on task ratio [100, 0] completed in 8.08 minutes.
+=====================================================================
+
+---------------------------------------------------------------------
+Finetuning job 1/45 begins.
+Task ratio [100, 0] with task reach and robot panda.
+Finetuning job 1/45 completed in 2.16 minutes.
+Elapsed time: 10.78 minutes.
+Estimated remaining time: 474.36 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 2/45 begins.
+Task ratio [100, 0] with task reach and robot kuka.
+Finetuning job 2/45 completed in 2.12 minutes.
+Elapsed time: 14.96 minutes.
+Estimated remaining time: 321.53 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 3/45 begins.
+Task ratio [100, 0] with task reach and robot xarm6.
+Finetuning job 3/45 completed in 2.18 minutes.
+Elapsed time: 18.66 minutes.
+Estimated remaining time: 261.22 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 4/45 begins.
+Task ratio [100, 0] with task push and robot panda.
+Finetuning job 4/45 completed in 2.70 minutes.
+Elapsed time: 34.09 minutes.
+Estimated remaining time: 349.46 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 5/45 begins.
+Task ratio [100, 0] with task push and robot kuka.
+Finetuning job 5/45 completed in 1.88 minutes.
+Elapsed time: 49.41 minutes.
+Estimated remaining time: 395.31 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 6/45 begins.
+Task ratio [100, 0] with task push and robot xarm6.
+Finetuning job 6/45 completed in 1.93 minutes.
+Elapsed time: 62.01 minutes.
+Estimated remaining time: 403.08 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 7/45 begins.
+Task ratio [100, 0] with task moving and robot panda.
+Finetuning job 7/45 completed in 2.12 minutes.
+Elapsed time: 75.34 minutes.
+Estimated remaining time: 408.96 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 8/45 begins.
+Task ratio [100, 0] with task moving and robot kuka.
+Finetuning job 8/45 completed in 1.84 minutes.
+Elapsed time: 89.79 minutes.
+Estimated remaining time: 415.29 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 9/45 begins.
+Task ratio [100, 0] with task moving and robot xarm6.
+Finetuning job 9/45 completed in 1.95 minutes.
+Elapsed time: 102.46 minutes.
+Estimated remaining time: 409.83 minutes.
+---------------------------------------------------------------------
+
+=====================================================================
+Pretraining on task ratio [75, 25] begins.
+Pretraining on task ratio [75, 25] completed in 9.08 minutes.
+=====================================================================
+
+---------------------------------------------------------------------
+Finetuning job 10/45 begins.
+Task ratio [75, 25] with task reach and robot panda.
+Finetuning job 10/45 completed in 2.10 minutes.
+Elapsed time: 124.64 minutes.
+Estimated remaining time: 436.24 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 11/45 begins.
+Task ratio [75, 25] with task reach and robot kuka.
+Finetuning job 11/45 completed in 1.79 minutes.
+Elapsed time: 137.25 minutes.
+Estimated remaining time: 424.23 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 12/45 begins.
+Task ratio [75, 25] with task reach and robot xarm6.
+Finetuning job 12/45 completed in 1.61 minutes.
+Elapsed time: 140.08 minutes.
+Estimated remaining time: 385.21 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 13/45 begins.
+Task ratio [75, 25] with task push and robot panda.
+Finetuning job 13/45 completed in 1.64 minutes.
+Elapsed time: 149.25 minutes.
+Estimated remaining time: 367.38 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 14/45 begins.
+Task ratio [75, 25] with task push and robot kuka.
+Finetuning job 14/45 completed in 1.42 minutes.
+Elapsed time: 160.29 minutes.
+Estimated remaining time: 354.94 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 15/45 begins.
+Task ratio [75, 25] with task push and robot xarm6.
+Finetuning job 15/45 completed in 1.43 minutes.
+Elapsed time: 169.76 minutes.
+Estimated remaining time: 339.52 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 16/45 begins.
+Task ratio [75, 25] with task moving and robot panda.
+Finetuning job 16/45 completed in 2.35 minutes.
+Elapsed time: 180.32 minutes.
+Estimated remaining time: 326.82 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 17/45 begins.
+Task ratio [75, 25] with task moving and robot kuka.
+Finetuning job 17/45 completed in 2.33 minutes.
+Elapsed time: 198.57 minutes.
+Estimated remaining time: 327.05 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 18/45 begins.
+Task ratio [75, 25] with task moving and robot xarm6.
+Finetuning job 18/45 completed in 2.35 minutes.
+Elapsed time: 213.86 minutes.
+Estimated remaining time: 320.79 minutes.
+---------------------------------------------------------------------
+
+=====================================================================
+Pretraining on task ratio [50, 50] begins.
+Pretraining on task ratio [50, 50] completed in 9.33 minutes.
+=====================================================================
+
+---------------------------------------------------------------------
+Finetuning job 19/45 begins.
+Task ratio [50, 50] with task reach and robot panda.
+Finetuning job 19/45 completed in 2.12 minutes.
+Elapsed time: 237.74 minutes.
+Estimated remaining time: 325.33 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 20/45 begins.
+Task ratio [50, 50] with task reach and robot kuka.
+Finetuning job 20/45 completed in 1.76 minutes.
+Elapsed time: 248.87 minutes.
+Estimated remaining time: 311.09 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 21/45 begins.
+Task ratio [50, 50] with task reach and robot xarm6.
+Finetuning job 21/45 completed in 1.79 minutes.
+Elapsed time: 252.63 minutes.
+Estimated remaining time: 288.72 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 22/45 begins.
+Task ratio [50, 50] with task push and robot panda.
+Finetuning job 22/45 completed in 2.14 minutes.
+Elapsed time: 264.54 minutes.
+Estimated remaining time: 276.57 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 23/45 begins.
+Task ratio [50, 50] with task push and robot kuka.
+Finetuning job 23/45 completed in 1.87 minutes.
+Elapsed time: 279.22 minutes.
+Estimated remaining time: 267.08 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 24/45 begins.
+Task ratio [50, 50] with task push and robot xarm6.
+Finetuning job 24/45 completed in 1.90 minutes.
+Elapsed time: 291.75 minutes.
+Estimated remaining time: 255.28 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 25/45 begins.
+Task ratio [50, 50] with task moving and robot panda.
+Finetuning job 25/45 completed in 2.11 minutes.
+Elapsed time: 304.60 minutes.
+Estimated remaining time: 243.68 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 26/45 begins.
+Task ratio [50, 50] with task moving and robot kuka.
+Finetuning job 26/45 completed in 1.85 minutes.
+Elapsed time: 319.12 minutes.
+Estimated remaining time: 233.20 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 27/45 begins.
+Task ratio [50, 50] with task moving and robot xarm6.
+Finetuning job 27/45 completed in 1.88 minutes.
+Elapsed time: 331.28 minutes.
+Estimated remaining time: 220.86 minutes.
+---------------------------------------------------------------------
+
+=====================================================================
+Pretraining on task ratio [25, 75] begins.
+Pretraining on task ratio [25, 75] completed in 9.51 minutes.
+=====================================================================
+
+---------------------------------------------------------------------
+Finetuning job 28/45 begins.
+Task ratio [25, 75] with task reach and robot panda.
+Finetuning job 28/45 completed in 2.09 minutes.
+Elapsed time: 353.77 minutes.
+Estimated remaining time: 214.79 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 29/45 begins.
+Task ratio [25, 75] with task reach and robot kuka.
+Finetuning job 29/45 completed in 1.81 minutes.
+Elapsed time: 365.78 minutes.
+Estimated remaining time: 201.81 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 30/45 begins.
+Task ratio [25, 75] with task reach and robot xarm6.
+Finetuning job 30/45 completed in 1.83 minutes.
+Elapsed time: 369.20 minutes.
+Estimated remaining time: 184.60 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 31/45 begins.
+Task ratio [25, 75] with task push and robot panda.
+Finetuning job 31/45 completed in 2.16 minutes.
+Elapsed time: 381.22 minutes.
+Estimated remaining time: 172.16 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 32/45 begins.
+Task ratio [25, 75] with task push and robot kuka.
+Finetuning job 32/45 completed in 1.84 minutes.
+Elapsed time: 395.24 minutes.
+Estimated remaining time: 160.57 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 33/45 begins.
+Task ratio [25, 75] with task push and robot xarm6.
+Finetuning job 33/45 completed in 1.94 minutes.
+Elapsed time: 407.16 minutes.
+Estimated remaining time: 148.06 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 34/45 begins.
+Task ratio [25, 75] with task moving and robot panda.
+Finetuning job 34/45 completed in 2.10 minutes.
+Elapsed time: 419.88 minutes.
+Estimated remaining time: 135.84 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 35/45 begins.
+Task ratio [25, 75] with task moving and robot kuka.
+Finetuning job 35/45 completed in 1.84 minutes.
+Elapsed time: 434.20 minutes.
+Estimated remaining time: 124.06 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 36/45 begins.
+Task ratio [25, 75] with task moving and robot xarm6.
+Finetuning job 36/45 completed in 1.84 minutes.
+Elapsed time: 446.14 minutes.
+Estimated remaining time: 111.53 minutes.
+---------------------------------------------------------------------
+
+=====================================================================
+Pretraining on task ratio [0, 100] begins.
+Pretraining on task ratio [0, 100] completed in 9.67 minutes.
+=====================================================================
+
+---------------------------------------------------------------------
+Finetuning job 37/45 begins.
+Task ratio [0, 100] with task reach and robot panda.
+Finetuning job 37/45 completed in 1.96 minutes.
+Elapsed time: 468.35 minutes.
+Estimated remaining time: 101.27 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 38/45 begins.
+Task ratio [0, 100] with task reach and robot kuka.
+Finetuning job 38/45 completed in 1.70 minutes.
+Elapsed time: 481.27 minutes.
+Estimated remaining time: 88.65 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 39/45 begins.
+Task ratio [0, 100] with task reach and robot xarm6.
+Finetuning job 39/45 completed in 1.79 minutes.
+Elapsed time: 491.99 minutes.
+Estimated remaining time: 75.69 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 40/45 begins.
+Task ratio [0, 100] with task push and robot panda.
+Finetuning job 40/45 completed in 2.20 minutes.
+Elapsed time: 503.87 minutes.
+Estimated remaining time: 62.98 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 41/45 begins.
+Task ratio [0, 100] with task push and robot kuka.
+Finetuning job 41/45 completed in 1.89 minutes.
+Elapsed time: 517.64 minutes.
+Estimated remaining time: 50.50 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 42/45 begins.
+Task ratio [0, 100] with task push and robot xarm6.
+Finetuning job 42/45 completed in 1.93 minutes.
+Elapsed time: 529.95 minutes.
+Estimated remaining time: 37.85 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 43/45 begins.
+Task ratio [0, 100] with task moving and robot panda.
+Finetuning job 43/45 completed in 2.31 minutes.
+Elapsed time: 542.98 minutes.
+Estimated remaining time: 25.25 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 44/45 begins.
+Task ratio [0, 100] with task moving and robot kuka.
+Finetuning job 44/45 completed in 1.74 minutes.
+Elapsed time: 556.42 minutes.
+Estimated remaining time: 12.65 minutes.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Finetuning job 45/45 begins.
+Task ratio [0, 100] with task moving and robot xarm6.
+Finetuning job 45/45 completed in 1.90 minutes.
+Elapsed time: 567.86 minutes.
+Estimated remaining time: 0.00 minutes.
+---------------------------------------------------------------------
+Experiment completed in 580.85 minutes.
